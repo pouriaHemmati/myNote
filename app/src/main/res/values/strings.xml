@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">RoomDatabase</string>
+    <string name="app_name">MyNote</string>
+    <string name="fontBold">font/IRANSansMobileBold.ttf</string>
+    <string name="fontMedium">font/IRANSansMobile.ttf</string>
+
+
+    <string name="mainTitle">یاداشت</string>
+    <string name="creatNote">درج یاداشت</string>
+    <string name="detailnote">جزئیات یاداشت</string>
+    <string name="delete">پاک کردن</string>
+    <string name="insert">درج کردن</string>
+    <string name="titleNote">عنوان :</string>
+    <string name="detailsNote">شرح :</string>
+    <string name="errorTitle">عنوان را وارد نمایید</string>
+    <string name="updateNote">آپدیت با موفقیت انجام شد</string>
+    <string name="deleteNote">یاداشت با موفقیت حذف شد</string>
+    <string name="errorDetails">شرح را وارد نمایید</string>
+    <string name="snackBack">برای خروج یک بار دیگر کلیک نمایید</string>
+    <string name="successUpdate">اطلاعات با موفقیت بروزرسانی شد</string>
 </resources>
